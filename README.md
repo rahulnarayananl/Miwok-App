@@ -1,8 +1,8 @@
 # Miwok App 
-=================
  A translation app with listview.</br>
  Listview is achieved by arraylist and arrayadapter.</br>
  Also created a custom array adapter for multimedia support.</br>
+ 
  Screenshots
  ------------
  <div align="center">
